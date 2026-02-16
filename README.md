@@ -39,7 +39,7 @@ The result of this project was a success. We managed to find an appropriate gear
 ### Notebook Images
 
 ##### Main Calculation checks
-[](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/calcs%20checks.png)
+[](#https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/calcs%20checks.png)
 
 ##### Clutch Analysis
 [](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/clutch%20drawing.png)
