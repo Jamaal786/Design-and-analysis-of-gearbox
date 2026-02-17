@@ -56,43 +56,43 @@ The housing was modelled and designed by me. The shaft, gear and seal were desig
 <br>
 
 #### Main Calculation checks
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/calcs%20checks.png)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/calcs%20checks.png)
 
 <br>
 
 #### Clutch Analysis
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/clutch%20drawing.png)
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/clucth%20calcs.png)
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/clutch%20hydraulic.png)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/clutch%20drawing.png)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/clucth%20calcs.png)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/clutch%20hydraulic.png)
 
 <br>
 
 #### Brake analysis
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/brake%20calcs.png)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/brake%20calcs.png)
 
 <br>
 
 #### Internal gearbox and gear layout
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/cross%20section%20notebook%20sketch.png)
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/gear%20overview%20checks.png)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/cross%20section%20notebook%20sketch.png)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/gear%20overview%20checks.png)
 
 <br>
 
 ### 3D modelling
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/gearbox%20CAD%20img.png)
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/Bottom%20plate%20CAD.png)
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/full%20shot%20(1).jpg)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/gearbox%20CAD%20img.png)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/Bottom%20plate%20CAD.png)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/full%20shot%20(1).jpg)
 
 <br>
 
 ### Drawings
 
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/full%20assembly%20drawing.png)
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/gearbox%20drawing.png)
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/base%20plate%20drawing.png)
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/shaft%20drawing%201.png)
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/shaft%20drawing%202.png)
-![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/shaft%20drawing%203.png)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/full%20assembly%20drawing.png)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/gearbox%20drawing.png)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/base%20plate%20drawing.png)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/shaft%20drawing%201.png)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/shaft%20drawing%202.png)
+![](https://github.com/Jamaal786/Design-and-analysis-of-gearbox/blob/main/images/shaft%20drawing%203.png)
 
 <br>
 
