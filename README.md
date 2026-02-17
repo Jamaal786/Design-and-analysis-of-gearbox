@@ -37,7 +37,6 @@ The gearbox itself was very tricky as I had to think a few steps ahead on what t
 <br>
 
 Once the full system was created, I found out that the whole system was not aligned flat. To tackle this, I desined the base plate to have a bend so that it would allow the components to be aligned. I had to then figure out where all the bolt holes needed to be while deisgning the plate so components could attach to the plate. For th holes on te plate, we decided to make them slots so that there would be more adjustability and tolerances during assembly.
-
 <br>
 
 #### Checking calculations
