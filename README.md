@@ -25,14 +25,17 @@ My portion of the project included : <br>
 <br>
 The main layout of the whole system was my task. I did some research on existsing systems, mainly vehicles, to see what would be the best way to layout the brakes, clutch and the gearbox. In the end, I found out that having the clutch before the gearbox would be the best course of action. If maintenence was needed on the gearbox or the brakes, the motor did not have to be stopped if the clutch was engaged. Furthermore, the brake was placed right next to the conveyor belt as it is the main component that must be stopped when the brake is applied.
 <br>
+
 #### Clutch and brake analysis
 <br>
 I leanrt about brake and clutch analysis in the lectures at university. However, as I used to be quite interested in cars back in highschool, I had a better understanding of these components compared to my peers. Therefore, I took up the clutch and brake analysis portion of the project. The calculations and decision process can be seen in the images portion of this repository. The diiffcult part in clutch and brake analysis was choosing the type of material for friction pads. I steered away from asbestos and from high end ceramic pads due to health and costs for production. I eventualy went for a kevlar/cast iron steel pad material due to a good temperature resistance, ability to resist crack and wear and the dry coefficient of friction was not too large, which would result in a smooth engagement. The brakes also used a non abestos organic material. This particular material would not be hazardous and be functional. The material chosen was also not expensive, which reduced costs in manufacturing and maintenence.
 <br>
+
 #### 3D modelling of the gearbox housing
 <br>
 
 <br>
+
 #### Checking calculations
 <br>
 
