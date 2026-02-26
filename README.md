@@ -47,7 +47,7 @@ The result of this project was a success. We managed to find an appropriate gear
 ## 📸 Project Images
 
 ### Notebook Images
-The housing was modelled and designed by me. The shafts, gears and seals were designed by my groupmates. However, one full shaft assembly drawing is by me. The internal gearbox and gear layout was decided as a group, but included in this repository for overall understanding.
+The housing was designed and modelled by me. The shafts, gears and seals were designed by my groupmates. However, the full output shaft assembly drawing was drawn by me. The internal gearbox and gear layout was decided as a group, but included in this repository for overall understanding.
 
 <br>
 
